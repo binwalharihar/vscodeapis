@@ -1,0 +1,6 @@
+## [Files to ignore for .NET Core]
+bin/
+obj/
+.vs/
+.vscode/
+appsettings.Development.json
