@@ -34,3 +34,4 @@ C:\Users\binwa\source\repos\VsCodeWebAPI\obj\Debug\net10.0\ref\VsCodeWebAPI.dll
 C:\Users\binwa\source\repos\VsCodeWebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\binwa\source\repos\VsCodeWebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\binwa\source\repos\VsCodeWebAPI\bin\Debug\net10.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\binwa\source\repos\VsCodeWebAPI\obj\Debug\net10.0\VsCodeWebAPI.sourcelink.json
